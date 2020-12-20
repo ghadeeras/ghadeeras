@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello 👋 🙂
 
-<!--
-**ghadeeras/ghadeeras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ghadeer. I code for a living, and also for the pure fun and creative side of coding. On GitHub, I embark on projects that are intellectually stimulating for me, and that rekindle the curiosity that first got me into programming, such as graphics, audio/music, math, physics, simulation, abstract frameworks, ... etc. Feel free to check out my repositories!
 
-Here are some ideas to get you started:
+## My To-Learn List
+- Rust (the programming language)
+- Nim (Python-like systems programming language)
+- MatLab
+- OpenCL and/or Vulkan
+- Cooking! 🍳😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Hobbies:
+- Music making: violin 🎻🎼🎵🎶 & classical guitar
+- Astronomy 🔭🪐⭐️☄️
+
+## How to reach me
+- I am on [Linked-in](https://www.linkedin.com/in/ghadeer-abou-saleh-69243b162/)
