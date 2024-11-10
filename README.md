@@ -4,6 +4,7 @@ Welcome to my GitHub! Here, I maintain a few personal projects of mine that reki
 
 ## Stuff that I am toying with
 - WebGPU
+- WebXR
 - WebAssembly / Binaryen.js
 - Rust (the programming language)
 
